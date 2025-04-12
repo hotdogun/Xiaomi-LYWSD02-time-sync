@@ -1,0 +1,1 @@
+# Xiaomi-LYWSD02-time-sync
